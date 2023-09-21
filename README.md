@@ -4,7 +4,7 @@
   <img align="left" alt="Thiago's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
-
+<br>
 
 
 - 🔭 I’m currently working on [Laravel](http://laravel.com)
