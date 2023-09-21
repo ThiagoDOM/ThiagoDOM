@@ -5,7 +5,7 @@
 </a>
 <br>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on [Laravel](http://laravel.com)
 - 🌱 I’m currently learning [Vue.js](https://vuejs.org)
